@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/ansteh/iex-explorer/issues"
   },
-  "homepage": "https://github.com/ansteh/iex-explorer#readme"
+  "homepage": "https://github.com/ansteh/iex-explorer#readme",
+  "dependencies": {
+    "fs-extra": "^7.0.0",
+    "got": "^9.2.2",
+    "lodash": "^4.17.11"
+  }
 }
